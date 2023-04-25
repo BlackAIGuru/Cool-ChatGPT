@@ -143,14 +143,6 @@ One click deploy with Vercel
 4. Run `yarn` or `npm install`, depending on whether you have yarn or npm installed.
 5. Launch the app by running `yarn dev` or `npm run dev`
 
-# ⭐️ Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=STARTIGER0120/Cool-ChatGPT&type=Date)](https://github.com/STARTIGER0120/Cool-ChatGPT/stargazers)
-
-<h3 align="center">
-A ⭐️ to <b>Cool-ChatGPT</b> is to make it shine brighter and benefit more people.
-</h3>
-
 # ❤️ Contributors
 
 Thanks to all the contributors!
